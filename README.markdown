@@ -62,7 +62,8 @@ nnoremap <leader>r :call T#DisplayRecent()<cr>
 
 ![T recent page](./recent.jpg)
 
-###其他自定义操作
+
+### 其他自定义操作
 ```vim
 " 设置翻译页面展示最近翻译的词条数，默认展示最近五条翻译
 let g:displayRecentNum = 5
@@ -74,6 +75,6 @@ let g:totalRecentNum = 100
 let g:TWinSize = 50
 ```
 
-###Acknowledgments
-本项目的翻译词条来源于：![ECDICT](https://github.com/skywind3000/ECDICT)
+### Acknowledgments
+本项目的翻译词条来源于：[ECDICT](https://github.com/skywind3000/ECDICT)
 
