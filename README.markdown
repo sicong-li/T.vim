@@ -12,7 +12,7 @@
 2. 将下面的文本放进你的 `vimrc`.
     ```vim
     call vundle#begin()
-      Plugin 'lisicong92/T.vim'
+      Plugin 'sicong-li/T.vim'
     call vundle#end()
     ```
 3. 重新打开你的 vim, 运行命令`:PluginInstall` 来安装插件.
@@ -25,7 +25,7 @@
 2. 将下面的文本放进你的`vimrc`.
 ```vim
 call plug#begin()
-  Plug 'lisicong92/T.vim'
+  Plug 'sicong-li/T.vim'
 call plug#end()
 ```
 3. 重新打开你的 vim, 运行命令`:PluginInstall` 来安装插件.
@@ -38,7 +38,7 @@ call plug#end()
 1. 将下面的文本放进你的`vimrc`.
     ```vim
     call dein#begin()
-    ¦ call dein#add('lisicong92/T.vim')
+    ¦ call dein#add('sicong-li/T.vim')
     call dein#end()
     ```
 3. 重新打开你的 vim, 运行命令`:PluginInstall` 来安装插件.
